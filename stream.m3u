@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTM3U
+#EXTINF:-1, tvg-id="SportsNet Pittsburgh" tvg-name="SportsNet Pittsburgh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/SportsNet_Pittsburgh_logo.png" group-title="Entertainment",SportsNet Pittsburgh
+http://cord-cutter.net:8080/hq3y4G/234247/108178?checkedby:alliptvlinks.com
+
 #EXTINF:-1 tvg-id="VH1 (East)" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_VH1_IT.png" group-title="Entertainment",VH1
 http://globalstreamz.xyz:3050/dalong1972@gmail.com/uNHnznZB6z/509150
 
