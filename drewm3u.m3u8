@@ -1,519 +1,4 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-#EXTINF:-1  tvg-id="beINSports1.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="DaddyLive AU",beIN SPORTS Australia 1
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium491/mono.m3u8
-#EXTINF:-1  tvg-id="beINSports2.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-2-us.png?raw=true" group-title="DaddyLive AU",beIN SPORTS Australia 2
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8
-#EXTINF:-1  tvg-id="beINSports3.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-3-us.png?raw=true" group-title="DaddyLive AU",beIN SPORTS Australia 3
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8
-#EXTINF:-1  tvg-id="FoxCricket.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-au.png?raw=true" group-title="DaddyLive AU",Fox Cricket
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
-#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 502 AU
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium820/mono.m3u8
-#EXTINF:-1  tvg-id="FoxSports503.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 503 AU
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium821/mono.m3u8
-#EXTINF:-1  tvg-id="FoxFooty.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-hd-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 504 AU
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium822/mono.m3u8
-#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 505 AU
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium823/mono.m3u8
-#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 506 AU
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium824/mono.m3u8
-#EXTINF:-1  tvg-id="FoxSportsMore.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-hd-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 507 AU
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium825/mono.m3u8
-#EXTINF:-1  tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-toronto-ca.png?raw=true" group-title="DaddyLive CA",CBC Canada
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium832/mono.m3u8
-#EXTINF:-1  tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-2-ca.png?raw=true" group-title="DaddyLive CA",CTV 2 Canada
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://nfsnew.newkso.ru/nfs/premium838/mono.m3u8
-#EXTINF:-1  tvg-id="CTV.(CFCN).Calgary,.AB.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-hd-ca.png?raw=true" group-title="DaddyLive CA",CTV Canada
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium602/mono.m3u8
-#EXTINF:-1  tvg-id="CTV.Speed.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-speed-channel-ca.png?raw=true" group-title="DaddyLive CA",Discovery Velocity CA
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium285/mono.m3u8
-#EXTINF:-1  tvg-id="Global.BC.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/global-bc-ca.png?raw=true" group-title="DaddyLive CA",Global CA
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium836/mono.m3u8
-#EXTINF:-1  tvg-id="Noovo.(CFJP).Montreal,.QC.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" group-title="DaddyLive CA",Noovo CA
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium835/mono.m3u8
-#EXTINF:-1  tvg-id="RDS2(src01).ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-2-hd-ca.png?raw=true" group-title="DaddyLive CA",RDS 2 CA
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium840/mono.m3u8
-#EXTINF:-1  tvg-id="RDS.(Réseau.des.sports).ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-ca.png?raw=true" group-title="DaddyLive CA",RDS CA
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
-#EXTINF:-1  tvg-id="RDS.Info.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-info-ca.png?raw=true" group-title="DaddyLive CA",RDS Info CA
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium841/mono.m3u8
-#EXTINF:-1  tvg-id="Sportsnet.360.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png?raw=true" group-title="DaddyLive CA",Sportsnet 360
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium409/mono.m3u8
-#EXTINF:-1  tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-hd-ca.png?raw=true" group-title="DaddyLive CA",Sportsnet East
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium408/mono.m3u8
-#EXTINF:-1  tvg-id="Sportsnet.One.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-one-hd-ca.png?raw=true" group-title="DaddyLive CA",Sportsnet One
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
-#EXTINF:-1  tvg-id="TSN1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN1
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
-#EXTINF:-1  tvg-id="TSN2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN2
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
-#EXTINF:-1  tvg-id="TSN3.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN3
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
-#EXTINF:-1  tvg-id="TSN4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN4
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
-#EXTINF:-1  tvg-id="TSN5.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN5
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
-#EXTINF:-1  tvg-id="TVA.Sports.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-ca.png?raw=true" group-title="DaddyLive CA",TVA Sports
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8
-#EXTINF:-1  tvg-id="TVA.Sports.2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-2-ca.png?raw=true" group-title="DaddyLive CA",TVA Sports 2
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium834/mono.m3u8
-#EXTINF:-1  tvg-id="TVO.(TV.Ontario).HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tvo-ca.png?raw=true" group-title="DaddyLive CA",TVO CA
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium842/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Sport.1.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 1 NZ
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Sport.2.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-2-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 2 NZ
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Sport.3.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-3-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 3 NZ
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Sport.4.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-4-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 4 NZ
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Sport.5.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-5-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 5 NZ
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium592/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Sport.6.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-6-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 6 NZ
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Sport.7.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-7-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 7 NZ
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Sport.8.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-8-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 8 NZ
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Sport.9.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-9-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 9 NZ
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Sport.Select.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-select-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport Select NZ
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium587/mono.m3u8
-#EXTINF:-1  tvg-id="5.USA.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/5-usa-uk.png?raw=true" group-title="DaddyLive UK",5 USA
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium360/mono.m3u8
-#EXTINF:-1  tvg-id="BBC.Four.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-four-uk.png?raw=true" group-title="DaddyLive UK",BBC Four UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium359/mono.m3u8
-#EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="DaddyLive UK",BBC One UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8
-#EXTINF:-1  tvg-id="BBC.Three.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" group-title="DaddyLive UK",BBC Three UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium358/mono.m3u8
-#EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="DaddyLive UK",BBC Two UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium357/mono.m3u8
-#EXTINF:-1  tvg-id="Channel4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/channel-4-uk.png?raw=true" group-title="DaddyLive UK",Channel 4 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium354/mono.m3u8
-#EXTINF:-1  tvg-id="Channel.5.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/channel-5-uk.png?raw=true" group-title="DaddyLive UK",Channel 5 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium355/mono.m3u8
-#EXTINF:-1  tvg-id="Dave(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dave-uk.png?raw=true" group-title="DaddyLive UK",U&Dave
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium348/mono.m3u8
-#EXTINF:-1  tvg-id="E4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/e-4-uk.png?raw=true" group-title="DaddyLive UK",E4 Channel
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium363/mono.m3u8
-#EXTINF:-1  tvg-id="Eurosport.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" group-title="DaddyLive UK",EuroSport 1 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium41/mono.m3u8
-#EXTINF:-1  tvg-id="Eurosport.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="DaddyLive UK",EuroSport 2 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium42/mono.m3u8
-#EXTINF:-1  tvg-id="FashionTV(src01).uk" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4d/Fashion_TV_%282007-.n.v.%29.png/revision/latest?cb=20191014124911" group-title="DaddyLive UK",Fashion TV
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium744/mono.m3u8
-#EXTINF:-1  tvg-id="Film4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/film-4-uk.png?raw=true" group-title="DaddyLive UK",Film4 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium688/mono.m3u8
-#EXTINF:-1  tvg-id="GOLD(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/gold-uk.png?raw=true" group-title="DaddyLive UK",Gold UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium687/mono.m3u8
-#EXTINF:-1  tvg-id="ITV1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-1-uk.png?raw=true" group-title="DaddyLive UK",ITV 1 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8
-#EXTINF:-1  tvg-id="ITV2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" group-title="DaddyLive UK",ITV 2 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium351/mono.m3u8
-#EXTINF:-1  tvg-id="ITV3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" group-title="DaddyLive UK",ITV 3 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium352/mono.m3u8
-#EXTINF:-1  tvg-id="ITV4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" group-title="DaddyLive UK",ITV 4 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium353/mono.m3u8
-#EXTINF:-1  tvg-id="DAZN.LALIGA.es" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/laliga-tv-uk.png?raw=true" group-title="DaddyLive UK",LaLigaTV UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium276/mono.m3u8
-#EXTINF:-1  tvg-id="LFCTV.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/lfctv-uk.png?raw=true" group-title="DaddyLive UK",Liverpool TV (LFC TV)
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium826/mono.m3u8
-#EXTINF:-1  tvg-id="MTV.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/mtv-uk.png?raw=true" group-title="DaddyLive UK",MTV UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium367/mono.m3u8
-#EXTINF:-1  tvg-id="MUTV.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/mutv-uk.png?raw=true" group-title="DaddyLive UK",MUTV UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium377/mono.m3u8
-#EXTINF:-1  tvg-id="Racing.TV.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/racing-tv-uk.png?raw=true" group-title="DaddyLive UK",Racing Tv UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium555/mono.m3u8
-#EXTINF:-1  tvg-id="RTE1Network.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-uk.png?raw=true" group-title="DaddyLive UK",RTE 1
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium364/mono.m3u8
-#EXTINF:-1  tvg-id="RTE2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-2-uk.png?raw=true" group-title="DaddyLive UK",RTE 2
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium365/mono.m3u8
-#EXTINF:-1  tvg-id="S4C.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/s4c-uk.png?raw=true" group-title="DaddyLive UK",S4C UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium670/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Arts.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-arts-uk.png?raw=true" group-title="DaddyLive UK",Sky Arts UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium683/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-atlantic-uk.png?raw=true" group-title="DaddyLive UK",Sky Atlantic
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium362/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Action.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Action UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium677/mono.m3u8
-#EXTINF:-1  tvg-id="SkyAnimationHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Animation UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium675/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Comedy UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium46/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Drama.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Drama UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium680/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Family.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Family UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium676/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Greats.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Greats UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium674/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Hits UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium673/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Premiere.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Premiere UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium671/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sci-fi-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Sci-Fi Horror UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium681/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Select UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium672/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Thriller UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium679/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-comedy-icon-uk.png?raw=true" group-title="DaddyLive UK",Sky Comedy UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium678/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Crime.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-uk.png?raw=true" group-title="DaddyLive UK",Sky Crime
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium685/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.HistoryHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-light-uk.png?raw=true" group-title="DaddyLive UK",Sky History
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium686/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Showcase.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-showcase-uk.png?raw=true" group-title="DaddyLive UK",Sky Showcase UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium682/mono.m3u8
-#EXTINF:-1  tvg-id="SkySp.Action.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Action UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
-#EXTINF:-1  tvg-id="SkySportsArena.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-arena-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Arena UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
-#EXTINF:-1  tvg-id="SkySp.Cricket.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Cricket
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8
-#EXTINF:-1  tvg-id="SkySp.F1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-icon-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports F1 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
-#EXTINF:-1  tvg-id="SkySp.Fball.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Football UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium35/mono.m3u8
-#EXTINF:-1  tvg-id="SkySp.Golf.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Golf UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium70/mono.m3u8
-#EXTINF:-1  tvg-id="SkySpMainEv.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Main Event
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
-#EXTINF:-1  tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports MIX UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8
-#EXTINF:-1  tvg-id="SkySp.News.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports News UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium366/mono.m3u8
-#EXTINF:-1  tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Premier League
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
-#EXTINF:-1  tvg-id="SkySp.Racing.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Racing UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium759/mono.m3u8
-#EXTINF:-1  tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Tennis UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium46/mono.m3u8
-#EXTINF:-1  tvg-id="Sky.Witness.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-witness-uk.png?raw=true" group-title="DaddyLive UK",Sky Witness HD
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium335/mono.m3u8
-#EXTINF:-1  tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="DaddyLive UK",TNT Sports 1 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
-#EXTINF:-1  tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="DaddyLive UK",TNT Sports 2 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
-#EXTINF:-1  tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="DaddyLive UK",TNT Sports 3 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
-#EXTINF:-1  tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="DaddyLive UK",TNT Sports 4 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
-#EXTINF:-1  tvg-id="Viaplay1(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/viaplay-sports-1-hz-uk.png?raw=true" group-title="DaddyLive UK",Viaplay Sports 1 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium451/mono.m3u8
-#EXTINF:-1  tvg-id="Viaplay2(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/viaplay-sports-2-hz-uk.png?raw=true" group-title="DaddyLive UK",Viaplay Sports 2 UK
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://windnew.newkso.ru/wind/premium550/mono.m3u8
-#EXTINF:-1  tvg-id="Sports.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DaddyLive UK",GOLTV
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://zekonew.newkso.ru/zeko/premium597/mono.m3u8
 #EXTINF:-1  tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/A%26E.png" group-title="DaddyLive USA",A&E USA
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1384,3 +869,518 @@ https://windnew.newkso.ru/wind/premium376/mono.m3u8
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://zekonew.newkso.ru/zeko/premium763/mono.m3u8
+#EXTINF:-1  tvg-id="beINSports1.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="DaddyLive AU",beIN SPORTS Australia 1
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium491/mono.m3u8
+#EXTINF:-1  tvg-id="beINSports2.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-2-us.png?raw=true" group-title="DaddyLive AU",beIN SPORTS Australia 2
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8
+#EXTINF:-1  tvg-id="beINSports3.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-3-us.png?raw=true" group-title="DaddyLive AU",beIN SPORTS Australia 3
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8
+#EXTINF:-1  tvg-id="FoxCricket.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-au.png?raw=true" group-title="DaddyLive AU",Fox Cricket
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 502 AU
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium820/mono.m3u8
+#EXTINF:-1  tvg-id="FoxSports503.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 503 AU
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium821/mono.m3u8
+#EXTINF:-1  tvg-id="FoxFooty.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-hd-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 504 AU
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium822/mono.m3u8
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 505 AU
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium823/mono.m3u8
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 506 AU
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium824/mono.m3u8
+#EXTINF:-1  tvg-id="FoxSportsMore.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-hd-au.png?raw=true" group-title="DaddyLive AU",FOX Sports 507 AU
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium825/mono.m3u8
+#EXTINF:-1  tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-toronto-ca.png?raw=true" group-title="DaddyLive CA",CBC Canada
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium832/mono.m3u8
+#EXTINF:-1  tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-2-ca.png?raw=true" group-title="DaddyLive CA",CTV 2 Canada
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://nfsnew.newkso.ru/nfs/premium838/mono.m3u8
+#EXTINF:-1  tvg-id="CTV.(CFCN).Calgary,.AB.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-hd-ca.png?raw=true" group-title="DaddyLive CA",CTV Canada
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium602/mono.m3u8
+#EXTINF:-1  tvg-id="CTV.Speed.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-speed-channel-ca.png?raw=true" group-title="DaddyLive CA",Discovery Velocity CA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium285/mono.m3u8
+#EXTINF:-1  tvg-id="Global.BC.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/global-bc-ca.png?raw=true" group-title="DaddyLive CA",Global CA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium836/mono.m3u8
+#EXTINF:-1  tvg-id="Noovo.(CFJP).Montreal,.QC.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" group-title="DaddyLive CA",Noovo CA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium835/mono.m3u8
+#EXTINF:-1  tvg-id="RDS2(src01).ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-2-hd-ca.png?raw=true" group-title="DaddyLive CA",RDS 2 CA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium840/mono.m3u8
+#EXTINF:-1  tvg-id="RDS.(Réseau.des.sports).ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-ca.png?raw=true" group-title="DaddyLive CA",RDS CA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
+#EXTINF:-1  tvg-id="RDS.Info.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-info-ca.png?raw=true" group-title="DaddyLive CA",RDS Info CA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium841/mono.m3u8
+#EXTINF:-1  tvg-id="Sportsnet.360.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png?raw=true" group-title="DaddyLive CA",Sportsnet 360
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium409/mono.m3u8
+#EXTINF:-1  tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-hd-ca.png?raw=true" group-title="DaddyLive CA",Sportsnet East
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium408/mono.m3u8
+#EXTINF:-1  tvg-id="Sportsnet.One.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-one-hd-ca.png?raw=true" group-title="DaddyLive CA",Sportsnet One
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
+#EXTINF:-1  tvg-id="TSN1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN1
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
+#EXTINF:-1  tvg-id="TSN2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN2
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
+#EXTINF:-1  tvg-id="TSN3.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN3
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
+#EXTINF:-1  tvg-id="TSN4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN4
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+#EXTINF:-1  tvg-id="TSN5.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN5
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+#EXTINF:-1  tvg-id="TVA.Sports.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-ca.png?raw=true" group-title="DaddyLive CA",TVA Sports
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8
+#EXTINF:-1  tvg-id="TVA.Sports.2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-2-ca.png?raw=true" group-title="DaddyLive CA",TVA Sports 2
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium834/mono.m3u8
+#EXTINF:-1  tvg-id="TVO.(TV.Ontario).HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tvo-ca.png?raw=true" group-title="DaddyLive CA",TVO CA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium842/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.1.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 1 NZ
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.2.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-2-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 2 NZ
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.3.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-3-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 3 NZ
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.4.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-4-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 4 NZ
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.5.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-5-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 5 NZ
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium592/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.6.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-6-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 6 NZ
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.7.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-7-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 7 NZ
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.8.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-8-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 8 NZ
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.9.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-9-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 9 NZ
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.Select.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-select-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport Select NZ
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium587/mono.m3u8
+#EXTINF:-1  tvg-id="5.USA.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/5-usa-uk.png?raw=true" group-title="DaddyLive UK",5 USA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium360/mono.m3u8
+#EXTINF:-1  tvg-id="BBC.Four.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-four-uk.png?raw=true" group-title="DaddyLive UK",BBC Four UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium359/mono.m3u8
+#EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="DaddyLive UK",BBC One UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8
+#EXTINF:-1  tvg-id="BBC.Three.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" group-title="DaddyLive UK",BBC Three UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium358/mono.m3u8
+#EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="DaddyLive UK",BBC Two UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium357/mono.m3u8
+#EXTINF:-1  tvg-id="Channel4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/channel-4-uk.png?raw=true" group-title="DaddyLive UK",Channel 4 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium354/mono.m3u8
+#EXTINF:-1  tvg-id="Channel.5.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/channel-5-uk.png?raw=true" group-title="DaddyLive UK",Channel 5 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium355/mono.m3u8
+#EXTINF:-1  tvg-id="Dave(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dave-uk.png?raw=true" group-title="DaddyLive UK",U&Dave
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium348/mono.m3u8
+#EXTINF:-1  tvg-id="E4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/e-4-uk.png?raw=true" group-title="DaddyLive UK",E4 Channel
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium363/mono.m3u8
+#EXTINF:-1  tvg-id="Eurosport.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" group-title="DaddyLive UK",EuroSport 1 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium41/mono.m3u8
+#EXTINF:-1  tvg-id="Eurosport.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="DaddyLive UK",EuroSport 2 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium42/mono.m3u8
+#EXTINF:-1  tvg-id="FashionTV(src01).uk" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4d/Fashion_TV_%282007-.n.v.%29.png/revision/latest?cb=20191014124911" group-title="DaddyLive UK",Fashion TV
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium744/mono.m3u8
+#EXTINF:-1  tvg-id="Film4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/film-4-uk.png?raw=true" group-title="DaddyLive UK",Film4 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium688/mono.m3u8
+#EXTINF:-1  tvg-id="GOLD(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/gold-uk.png?raw=true" group-title="DaddyLive UK",Gold UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium687/mono.m3u8
+#EXTINF:-1  tvg-id="ITV1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-1-uk.png?raw=true" group-title="DaddyLive UK",ITV 1 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8
+#EXTINF:-1  tvg-id="ITV2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" group-title="DaddyLive UK",ITV 2 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium351/mono.m3u8
+#EXTINF:-1  tvg-id="ITV3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" group-title="DaddyLive UK",ITV 3 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium352/mono.m3u8
+#EXTINF:-1  tvg-id="ITV4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" group-title="DaddyLive UK",ITV 4 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium353/mono.m3u8
+#EXTINF:-1  tvg-id="DAZN.LALIGA.es" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/laliga-tv-uk.png?raw=true" group-title="DaddyLive UK",LaLigaTV UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium276/mono.m3u8
+#EXTINF:-1  tvg-id="LFCTV.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/lfctv-uk.png?raw=true" group-title="DaddyLive UK",Liverpool TV (LFC TV)
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium826/mono.m3u8
+#EXTINF:-1  tvg-id="MTV.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/mtv-uk.png?raw=true" group-title="DaddyLive UK",MTV UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium367/mono.m3u8
+#EXTINF:-1  tvg-id="MUTV.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/mutv-uk.png?raw=true" group-title="DaddyLive UK",MUTV UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium377/mono.m3u8
+#EXTINF:-1  tvg-id="Racing.TV.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/racing-tv-uk.png?raw=true" group-title="DaddyLive UK",Racing Tv UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium555/mono.m3u8
+#EXTINF:-1  tvg-id="RTE1Network.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-uk.png?raw=true" group-title="DaddyLive UK",RTE 1
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium364/mono.m3u8
+#EXTINF:-1  tvg-id="RTE2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-2-uk.png?raw=true" group-title="DaddyLive UK",RTE 2
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium365/mono.m3u8
+#EXTINF:-1  tvg-id="S4C.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/s4c-uk.png?raw=true" group-title="DaddyLive UK",S4C UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium670/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Arts.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-arts-uk.png?raw=true" group-title="DaddyLive UK",Sky Arts UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium683/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-atlantic-uk.png?raw=true" group-title="DaddyLive UK",Sky Atlantic
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium362/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Action.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Action UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium677/mono.m3u8
+#EXTINF:-1  tvg-id="SkyAnimationHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Animation UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium675/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Comedy UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium46/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Drama.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Drama UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium680/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Family.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Family UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium676/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Greats.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Greats UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium674/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Hits UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium673/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Premiere.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Premiere UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium671/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sci-fi-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Sci-Fi Horror UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium681/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Select UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium672/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Cinema Thriller UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium679/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-comedy-icon-uk.png?raw=true" group-title="DaddyLive UK",Sky Comedy UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium678/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Crime.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-uk.png?raw=true" group-title="DaddyLive UK",Sky Crime
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium685/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.HistoryHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-light-uk.png?raw=true" group-title="DaddyLive UK",Sky History
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium686/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Showcase.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-showcase-uk.png?raw=true" group-title="DaddyLive UK",Sky Showcase UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium682/mono.m3u8
+#EXTINF:-1  tvg-id="SkySp.Action.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Action UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1  tvg-id="SkySportsArena.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-arena-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Arena UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1  tvg-id="SkySp.Cricket.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Cricket
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8
+#EXTINF:-1  tvg-id="SkySp.F1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-icon-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports F1 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+#EXTINF:-1  tvg-id="SkySp.Fball.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Football UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium35/mono.m3u8
+#EXTINF:-1  tvg-id="SkySp.Golf.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Golf UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium70/mono.m3u8
+#EXTINF:-1  tvg-id="SkySpMainEv.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Main Event
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
+#EXTINF:-1  tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports MIX UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8
+#EXTINF:-1  tvg-id="SkySp.News.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports News UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium366/mono.m3u8
+#EXTINF:-1  tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Premier League
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
+#EXTINF:-1  tvg-id="SkySp.Racing.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Racing UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium759/mono.m3u8
+#EXTINF:-1  tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Tennis UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium46/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Witness.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-witness-uk.png?raw=true" group-title="DaddyLive UK",Sky Witness HD
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium335/mono.m3u8
+#EXTINF:-1  tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="DaddyLive UK",TNT Sports 1 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+#EXTINF:-1  tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="DaddyLive UK",TNT Sports 2 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
+#EXTINF:-1  tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="DaddyLive UK",TNT Sports 3 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
+#EXTINF:-1  tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="DaddyLive UK",TNT Sports 4 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
+#EXTINF:-1  tvg-id="Viaplay1(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/viaplay-sports-1-hz-uk.png?raw=true" group-title="DaddyLive UK",Viaplay Sports 1 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium451/mono.m3u8
+#EXTINF:-1  tvg-id="Viaplay2(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/viaplay-sports-2-hz-uk.png?raw=true" group-title="DaddyLive UK",Viaplay Sports 2 UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium550/mono.m3u8
+#EXTINF:-1  tvg-id="Sports.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DaddyLive UK",GOLTV
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://zekonew.newkso.ru/zeko/premium597/mono.m3u8
