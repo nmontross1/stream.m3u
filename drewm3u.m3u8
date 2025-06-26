@@ -89,7 +89,7 @@ https://windnew.newkso.ru/wind/premium750/mono.m3u8
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://nfsnew.newkso.ru/nfs/premium339/mono.m3u8
-#EXTINF:-1  tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-golazo-network-us.png?raw=true" group-title="DaddyLive USA",CBS Sports Golazo
+#EXTINF:-1  tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-golazo-network-us.png?raw=true" group-title="DaddyLive USA",CBS Sports Golazo
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
