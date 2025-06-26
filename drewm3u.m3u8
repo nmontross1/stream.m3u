@@ -59,7 +59,7 @@ https://dokko1new.newkso.ru/dokko1/premium349/mono.m3u8
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
-#EXTINF:-1  tvg-id="BET.-.Eastern.Feed.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/BET.png" group-title="DaddyLive USA",BET USA
+#EXTINF:-1  tvg-id="BET.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/edit/main/countries/united-states/bet-us.png?raw=true" group-title="DaddyLive USA",BET USA
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
