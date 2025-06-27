@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
+#EXTM3U
 #EXTINF:-1  tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="UNITED STATES",A&E USA
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
